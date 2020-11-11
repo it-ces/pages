@@ -8,3 +8,4 @@ github, R are succesful examples of collaboritive work.
 
 [I'm an inline-style link](another.md)
 
+[to see R](https://github.com/it-ces/data-course/tree/gh-pages/R/index.md)
