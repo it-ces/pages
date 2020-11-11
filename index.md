@@ -5,3 +5,6 @@
 
 Colaboration to develop code it is a example of general purpose, Linux, 
 github, R are succesful examples of collaboritive work.
+
+[I'm an inline-style link](another.md)
+
